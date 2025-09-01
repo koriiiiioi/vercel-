@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://check-apply-now-here.vercel.app/",
+      "permanent": false
+    },
+    {
       "source": "/go",
       "destination": "https://check-apply-now-here.vercel.app/",
       "permanent": false
